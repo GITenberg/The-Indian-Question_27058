@@ -1,0 +1,30 @@
+_repo: The-Indian-Question_27058
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Walker, Francis Amasa
+    birthdate: 1840
+    deathdate: 1897
+    gutenberg_agent_id: '32421'
+    url: http://www.gutenberg.org/2009/agents/32421
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Amasa_Walker
+description: ''
+gutenberg_issued: '2008-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27058'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Government relations'
+- !lcsh 'Indians of North America'
+- !lcc 'E151'
+- !lcsh 'Indians of North America -- Legal status, laws, etc.'
+tableOfContents: The Indian question -- Indian citizenship -- An account of the tribes.
+title: The Indian Question
+url: http://www.gutenberg.org/ebooks/27058
